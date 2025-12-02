@@ -1,5 +1,6 @@
 Summary of Content
 
-Data Collection and API 
-(data collection from spacex API, dataframe cleaned)
-
+Data Collection
+ API (data collection from spacex API, dataframe cleaned)
+ WebScraping (from WikiPedia Falcon launches page)
+ 
